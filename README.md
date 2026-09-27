@@ -21,22 +21,22 @@ Create QR codes, customize their appearance, and export them directly from your 
 
 ![main1](Screenshots/main1.png)
 ![Main Interface](Screenshots/main2.png)
-![Main Interface](screenshots/main3.png)
-![Main Interface](screenshots/maindark.png)
+![Main Interface](Screenshots/main3.png)
+![Main Interface](Screenshots/maindark.png)
 
 ### QR Customization
 
-![QR Customization](screenshots/Customizing_panel.png)
-![QR Customization](screenshots/changed_colour_preset.png)
-![QR Customization](screenshots/changed_colour_preset2.png)
-![QR Customization](screenshots/with_logo.png)
+![QR Customization](Screenshots/Customizing_panel.png)
+![QR Customization](Screenshots/changed_colour_preset.png)
+![QR Customization](Screenshots/changed_colour_preset2.png)
+![QR Customization](Screenshots/with_logo.png)
 
 ### types of QR Code
 
-![types of QR Code](screenshots/email.png)
-![types of QR Code](screenshots/QR_for_text.png)
-![types of QR Code](screenshots/phone.png)
-![types of QR Code](screenshots/wifi.png)
+![types of QR Code](Screenshots/email.png)
+![types of QR Code](Screenshots/QR_for_text.png)
+![types of QR Code](Screenshots/phone.png)
+![types of QR Code](Screenshots/wifi.png)
 
 ## Getting Started
 
