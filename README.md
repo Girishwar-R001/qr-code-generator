@@ -19,7 +19,7 @@ Create QR codes, customize their appearance, and export them directly from your 
 
 ### Main Interface
 
-![Main Interface](screenshots/main1.png)
+![main1](screenshots/main1.png)
 ![Main Interface](screenshots/main2.png)
 ![Main Interface](screenshots/main3.png)
 ![Main Interface](screenshots/maindark.png)
