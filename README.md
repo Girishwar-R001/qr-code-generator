@@ -27,8 +27,8 @@ Create QR codes, customize their appearance, and export them directly from your 
 ### QR Customization
 
 ![QR Customization](Screenshots/Customizing_panel.png)
-![QR Customization](Screenshots/changed_colour_preset.png)
-![QR Customization](Screenshots/changed_colour_preset2.png)
+![QR Customization](Screenshots/Changed_colour_preset.png)
+![QR Customization](Screenshots/Changed_colour_preset2.png)
 ![QR Customization](Screenshots/with_logo.png)
 
 ### types of QR Code
